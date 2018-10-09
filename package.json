@@ -1,6 +1,6 @@
 {
   "name": "recipe-box",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
@@ -12,5 +12,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "A recipe box to store, add, edit or delete recipes. It's made using react.js and uses browser storage to store recipes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashwin-Kapes/recipe-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashwin-Kapes/recipe-box/issues"
+  },
+  "homepage": "https://github.com/Ashwin-Kapes/recipe-box#readme"
 }
